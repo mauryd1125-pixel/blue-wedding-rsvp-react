@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="810" viewBox="0 0 1440 810" fill="none">
+  <desc>Editable wedding RSVP invitation vector design. All UI elements are SVG shapes and text for Figma import.</desc>
+  <style>
+    .serif { font-family: "Playfair Display", Georgia, serif; }
+    .sans { font-family: "Montserrat", "Poppins", Arial, sans-serif; }
+    .smallcaps { letter-spacing: 5px; text-transform: uppercase; }
+  </style>
+<rect x="0" y="0" width="1440" height="810" rx="0" fill="#FBF7F5" stroke="none" stroke-width="1" opacity="1"/>
+<g transform="translate(25 170) rotate(-15) scale(1.1 1.1)" opacity="0.75">
+<path d="M 0 0 C 28 -52, 76 -94, 142 -120" stroke="#D7BEC6" stroke-width="2" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 28 -46 C -4 -56, 18 -82, 48 -66 C 34 -54, 30 -50, 28 -46" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 48 -62 C 52 -104, 80 -110, 71 -74 C 54 -70, 50 -66, 48 -62" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 72 -80 C 40 -94, 63 -118, 98 -104 C 78 -88, 74 -84, 72 -80" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 95 -96 C 99 -140, 133 -140, 120 -106 C 101 -104, 97 -100, 95 -96" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 120 -111 C 94 -127, 113 -143, 142 -131 C 126 -119, 122 -115, 120 -111" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 36 -42 C 48 -60, 64 -64, 79 -72" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="64" cy="-64" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="72" cy="-69" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="80" cy="-74" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 58 -65 C 70 -83, 86 -87, 101 -95" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="86" cy="-87" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="94" cy="-92" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="102" cy="-97" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 86 -84 C 98 -102, 114 -106, 129 -114" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="114" cy="-106" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="122" cy="-111" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="130" cy="-116" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 112 -104 C 124 -122, 140 -126, 155 -134" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="140" cy="-126" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="148" cy="-131" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="156" cy="-136" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+</g>
+<g transform="translate(1375 170) rotate(15) scale(-1.1 1.1)" opacity="0.75">
+<path d="M 0 0 C 28 -52, 76 -94, 142 -120" stroke="#D7BEC6" stroke-width="2" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 28 -46 C -4 -56, 18 -82, 48 -66 C 34 -54, 30 -50, 28 -46" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 48 -62 C 52 -104, 80 -110, 71 -74 C 54 -70, 50 -66, 48 -62" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 72 -80 C 40 -94, 63 -118, 98 -104 C 78 -88, 74 -84, 72 -80" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 95 -96 C 99 -140, 133 -140, 120 -106 C 101 -104, 97 -100, 95 -96" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 120 -111 C 94 -127, 113 -143, 142 -131 C 126 -119, 122 -115, 120 -111" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 36 -42 C 48 -60, 64 -64, 79 -72" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="64" cy="-64" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="72" cy="-69" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="80" cy="-74" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 58 -65 C 70 -83, 86 -87, 101 -95" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="86" cy="-87" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="94" cy="-92" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="102" cy="-97" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 86 -84 C 98 -102, 114 -106, 129 -114" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="114" cy="-106" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="122" cy="-111" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="130" cy="-116" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 112 -104 C 124 -122, 140 -126, 155 -134" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="140" cy="-126" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="148" cy="-131" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="156" cy="-136" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+</g>
+<g transform="translate(25 745) rotate(-35) scale(1.05 1.05)" opacity="0.75">
+<path d="M 0 0 C 28 -52, 76 -94, 142 -120" stroke="#D7BEC6" stroke-width="2" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 28 -46 C -4 -56, 18 -82, 48 -66 C 34 -54, 30 -50, 28 -46" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 48 -62 C 52 -104, 80 -110, 71 -74 C 54 -70, 50 -66, 48 -62" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 72 -80 C 40 -94, 63 -118, 98 -104 C 78 -88, 74 -84, 72 -80" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 95 -96 C 99 -140, 133 -140, 120 -106 C 101 -104, 97 -100, 95 -96" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 120 -111 C 94 -127, 113 -143, 142 -131 C 126 -119, 122 -115, 120 -111" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 36 -42 C 48 -60, 64 -64, 79 -72" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="64" cy="-64" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="72" cy="-69" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="80" cy="-74" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 58 -65 C 70 -83, 86 -87, 101 -95" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="86" cy="-87" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="94" cy="-92" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="102" cy="-97" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 86 -84 C 98 -102, 114 -106, 129 -114" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="114" cy="-106" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="122" cy="-111" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="130" cy="-116" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 112 -104 C 124 -122, 140 -126, 155 -134" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="140" cy="-126" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="148" cy="-131" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="156" cy="-136" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+</g>
+<g transform="translate(1375 745) rotate(35) scale(-1.05 1.05)" opacity="0.75">
+<path d="M 0 0 C 28 -52, 76 -94, 142 -120" stroke="#D7BEC6" stroke-width="2" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 28 -46 C -4 -56, 18 -82, 48 -66 C 34 -54, 30 -50, 28 -46" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 48 -62 C 52 -104, 80 -110, 71 -74 C 54 -70, 50 -66, 48 -62" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 72 -80 C 40 -94, 63 -118, 98 -104 C 78 -88, 74 -84, 72 -80" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 95 -96 C 99 -140, 133 -140, 120 -106 C 101 -104, 97 -100, 95 -96" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 120 -111 C 94 -127, 113 -143, 142 -131 C 126 -119, 122 -115, 120 -111" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 36 -42 C 48 -60, 64 -64, 79 -72" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="64" cy="-64" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="72" cy="-69" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="80" cy="-74" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 58 -65 C 70 -83, 86 -87, 101 -95" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="86" cy="-87" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="94" cy="-92" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="102" cy="-97" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 86 -84 C 98 -102, 114 -106, 129 -114" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="114" cy="-106" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="122" cy="-111" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="130" cy="-116" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 112 -104 C 124 -122, 140 -126, 155 -134" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="140" cy="-126" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="148" cy="-131" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="156" cy="-136" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+</g>
+<text x="720" y="105" text-anchor="middle" class="serif" font-size="66" font-weight="500" fill="#7F5368" style="">Drinks</text>
+<path d="M 690 35 C 690 58, 725 58, 725 35 M 715 35 C 715 58, 750 58, 750 35 M 702 58 L 695 82 M 740 58 L 747 82 M 690 82 H 705 M 735 82 H 755" stroke="#7F5368" stroke-width="2" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="616.5" y1="135" x2="697.5" y2="135" stroke="#CBA7B3" stroke-width="1.1700000000000002" opacity="1" stroke-linecap="round"/>
+<line x1="742.5" y1="135" x2="823.5" y2="135" stroke="#CBA7B3" stroke-width="1.1700000000000002" opacity="1" stroke-linecap="round"/>
+<path d="M 705.6 126.0 L 714.6 135 L 705.6 144.0 L 696.6 135 Z" stroke="#CBA7B3" stroke-width="1.08" fill="none" opacity="1"/>
+<path d="M 720.0 126.0 L 729.0 135 L 720.0 144.0 L 711.0 135 Z" stroke="#CBA7B3" stroke-width="1.08" fill="none" opacity="1"/>
+<path d="M 734.4 126.0 L 743.4 135 L 734.4 144.0 L 725.4 135 Z" stroke="#CBA7B3" stroke-width="1.08" fill="none" opacity="1"/>
+<rect x="145" y="165" width="1150" height="360" rx="22" fill="#FFFFFF" stroke="#D7BEC6" stroke-width="1.2" opacity="0.98"/>
+<text x="720" y="220" text-anchor="middle" class="sans" font-size="20" font-weight="400" fill="#6F7077" style="">Help us plan our big day by suggesting your favorite drinks.</text>
+<path d="M 720 259.8 C 705.6 250.2, 713.6 240.6, 720 248.6 C 726.4 240.6, 734.4 250.2, 720 259.8 Z" fill="#D9A99B" opacity="1"/>
+<line x1="675" y1="255" x2="705" y2="255" stroke="#D7BEC6" stroke-width="1" opacity="1" stroke-linecap="round"/>
+<line x1="735" y1="255" x2="765" y2="255" stroke="#D7BEC6" stroke-width="1" opacity="1" stroke-linecap="round"/>
+<text x="720" y="305" text-anchor="middle" class="serif" font-size="28" font-weight="500" fill="#7F5368" style="">Non-Alcoholic Drinks</text>
+<rect x="350" y="330" width="95" height="42" rx="8" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="397.5" y="357" text-anchor="middle" class="sans" font-size="16" font-weight="500" fill="#7F5368" style="">COCA</text>
+<rect x="467" y="330" width="145" height="42" rx="8" fill="#9A6F82" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="539.5" y="357" text-anchor="middle" class="sans" font-size="16" font-weight="500" fill="#FFFFFF" style="">ENERGY MALT</text>
+<rect x="634" y="330" width="95" height="42" rx="8" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="681.5" y="357" text-anchor="middle" class="sans" font-size="16" font-weight="500" fill="#7F5368" style="">FANTA</text>
+<rect x="751" y="330" width="145" height="42" rx="8" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="823.5" y="357" text-anchor="middle" class="sans" font-size="16" font-weight="500" fill="#7F5368" style="">MALTINA</text>
+<rect x="918" y="330" width="95" height="42" rx="8" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="965.5" y="357" text-anchor="middle" class="sans" font-size="16" font-weight="500" fill="#7F5368" style="">SPRITE</text>
+<rect x="1035" y="330" width="95" height="42" rx="8" fill="#9A6F82" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="1082.5" y="357" text-anchor="middle" class="sans" font-size="16" font-weight="500" fill="#FFFFFF" style="">VITALO</text>
+<text x="720" y="425" text-anchor="middle" class="serif" font-size="28" font-weight="500" fill="#7F5368" style="">Alcoholic Beverages</text>
+<rect x="170" y="452" width="112" height="38" rx="7" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="226.0" y="477" text-anchor="middle" class="sans" font-size="14" font-weight="500" fill="#7F5368" style="">BEAUFORT</text>
+<rect x="298" y="452" width="104" height="38" rx="7" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="350.0" y="477" text-anchor="middle" class="sans" font-size="14" font-weight="500" fill="#7F5368" style="">CASTEL</text>
+<rect x="418" y="452" width="112" height="38" rx="7" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="474.0" y="477" text-anchor="middle" class="sans" font-size="14" font-weight="500" fill="#7F5368" style="">HEINEKEN</text>
+<rect x="546" y="452" width="104" height="38" rx="7" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="598.0" y="477" text-anchor="middle" class="sans" font-size="14" font-weight="500" fill="#7F5368" style="">LEGEND</text>
+<rect x="666" y="452" width="104" height="38" rx="7" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="718.0" y="477" text-anchor="middle" class="sans" font-size="14" font-weight="500" fill="#7F5368" style="">MUTZIG</text>
+<rect x="786" y="452" width="100" height="38" rx="7" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="836.0" y="477" text-anchor="middle" class="sans" font-size="14" font-weight="500" fill="#7F5368" style="">NKOYI</text>
+<rect x="902" y="452" width="124" height="38" rx="7" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="964.0" y="477" text-anchor="middle" class="sans" font-size="14" font-weight="500" fill="#7F5368" style="">NKOYI BLACK</text>
+<rect x="1042" y="452" width="104" height="38" rx="7" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="1094.0" y="477" text-anchor="middle" class="sans" font-size="14" font-weight="500" fill="#7F5368" style="">PRIMUS</text>
+<rect x="1162" y="452" width="100" height="38" rx="7" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="1212.0" y="477" text-anchor="middle" class="sans" font-size="14" font-weight="500" fill="#7F5368" style="">TEMBO</text>
+<rect x="1278" y="452" width="100" height="38" rx="7" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<text x="1328.0" y="477" text-anchor="middle" class="sans" font-size="14" font-weight="500" fill="#7F5368" style="">TURBO</text>
+<rect x="160" y="500" width="1120" height="50" rx="8" fill="#F6EDEF" stroke="#D7BEC6" stroke-width="1" opacity="1"/>
+<circle cx="620" cy="525" r="20" fill="#9A6F82" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 610 524 L 620 535 L 636 515" stroke="#FFFFFF" stroke-width="3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="650" y="533" text-anchor="start" class="serif" font-size="22" font-weight="400" fill="#7F5368" style="">2 drink(s) chosen.</text>
+<g transform="translate(1130 545) rotate(-15) scale(0.38 0.38)" opacity="0.75">
+<path d="M 0 0 C 28 -52, 76 -94, 142 -120" stroke="#D7BEC6" stroke-width="2" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 28 -46 C -4 -56, 18 -82, 48 -66 C 34 -54, 30 -50, 28 -46" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 48 -62 C 52 -104, 80 -110, 71 -74 C 54 -70, 50 -66, 48 -62" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 72 -80 C 40 -94, 63 -118, 98 -104 C 78 -88, 74 -84, 72 -80" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 95 -96 C 99 -140, 133 -140, 120 -106 C 101 -104, 97 -100, 95 -96" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 120 -111 C 94 -127, 113 -143, 142 -131 C 126 -119, 122 -115, 120 -111" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 36 -42 C 48 -60, 64 -64, 79 -72" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="64" cy="-64" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="72" cy="-69" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="80" cy="-74" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 58 -65 C 70 -83, 86 -87, 101 -95" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="86" cy="-87" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="94" cy="-92" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="102" cy="-97" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 86 -84 C 98 -102, 114 -106, 129 -114" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="114" cy="-106" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="122" cy="-111" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="130" cy="-116" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 112 -104 C 124 -122, 140 -126, 155 -134" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="140" cy="-126" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="148" cy="-131" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="156" cy="-136" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+</g>
+<rect x="145" y="590" width="1150" height="180" rx="22" fill="#FFFFFF" stroke="#D7BEC6" stroke-width="1.2" opacity="0.98"/>
+<text x="345" y="665" text-anchor="middle" class="serif" font-size="46" font-weight="500" fill="#7F5368" style="">Interactions</text>
+<line x1="270.25" y1="695" x2="328.75" y2="695" stroke="#CBA7B3" stroke-width="0.8450000000000001" opacity="1" stroke-linecap="round"/>
+<line x1="361.25" y1="695" x2="419.75" y2="695" stroke="#CBA7B3" stroke-width="0.8450000000000001" opacity="1" stroke-linecap="round"/>
+<path d="M 334.6 688.5 L 341.1 695 L 334.6 701.5 L 328.1 695 Z" stroke="#CBA7B3" stroke-width="0.78" fill="none" opacity="1"/>
+<path d="M 345.0 688.5 L 351.5 695 L 345.0 701.5 L 338.5 695 Z" stroke="#CBA7B3" stroke-width="0.78" fill="none" opacity="1"/>
+<path d="M 355.4 688.5 L 361.9 695 L 355.4 701.5 L 348.9 695 Z" stroke="#CBA7B3" stroke-width="0.78" fill="none" opacity="1"/>
+<text x="345" y="735" text-anchor="middle" class="sans" font-size="16" font-weight="400" fill="#6F7077" style="">Thank you for your interactions.</text>
+<text x="345" y="760" text-anchor="middle" class="sans" font-size="16" font-weight="400" fill="#6F7077" style="">You made our big day special and unforgettable.</text>
+<line x1="610" y1="620" x2="610" y2="750" stroke="#D7BEC6" stroke-width="1.2" opacity="1" stroke-linecap="round"/>
+<circle cx="685" cy="647" r="23" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<path d="M 685 652.8 C 670.6 643.2, 678.6 633.6, 685 641.6 C 691.4 633.6, 699.4 643.2, 685 652.8 Z" fill="#9A6F82" opacity="1"/>
+<text x="740" y="643" text-anchor="start" class="serif" font-size="22" font-weight="400" fill="#7F5368" style="">Confirmed</text>
+<text x="1235" y="643" text-anchor="end" class="serif" font-size="20" font-weight="400" fill="#7F5368" style="">32%</text>
+<rect x="740" y="658" width="500" height="10" rx="5" fill="#F5E5E9" stroke="#D7BEC6" stroke-width="0.8" opacity="1"/>
+<rect x="740" y="658" width="160.0" height="10" rx="5" fill="#9A6F82" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="685" cy="702" r="23" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<circle cx="685" cy="702" r="9" fill="transparent" stroke="#9A6F82" stroke-width="1.3" opacity="1"/>
+<path d="M 685 702 L 685 695 M 685 702 L 692 705" stroke="#9A6F82" stroke-width="1.4" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="740" y="698" text-anchor="start" class="serif" font-size="22" font-weight="400" fill="#7F5368" style="">On hold</text>
+<text x="1235" y="698" text-anchor="end" class="serif" font-size="20" font-weight="400" fill="#7F5368" style="">68%</text>
+<rect x="740" y="713" width="500" height="10" rx="5" fill="#F5E5E9" stroke="#D7BEC6" stroke-width="0.8" opacity="1"/>
+<rect x="740" y="713" width="340.0" height="10" rx="5" fill="#9A6F82" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="685" cy="757" r="23" fill="transparent" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<path d="M 678 750 L 692 764 M 692 750 L 678 764" stroke="#9A6F82" stroke-width="1.6" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="740" y="753" text-anchor="start" class="serif" font-size="22" font-weight="400" fill="#7F5368" style="">Cancelled</text>
+<text x="1235" y="753" text-anchor="end" class="serif" font-size="20" font-weight="400" fill="#7F5368" style="">0%</text>
+<rect x="740" y="768" width="500" height="10" rx="5" fill="#F5E5E9" stroke="#D7BEC6" stroke-width="0.8" opacity="1"/>
+</svg>

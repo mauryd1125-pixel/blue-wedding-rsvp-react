@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="810" viewBox="0 0 1440 810" fill="none">
+  <desc>Editable wedding RSVP invitation vector design. All UI elements are SVG shapes and text for Figma import.</desc>
+  <style>
+    .serif { font-family: "Playfair Display", Georgia, serif; }
+    .sans { font-family: "Montserrat", "Poppins", Arial, sans-serif; }
+    .smallcaps { letter-spacing: 5px; text-transform: uppercase; }
+  </style>
+<rect x="0" y="0" width="1440" height="810" rx="0" fill="#FBF7F5" stroke="none" stroke-width="1" opacity="1"/>
+<g transform="translate(25 170) rotate(-15) scale(1.1 1.1)" opacity="0.75">
+<path d="M 0 0 C 28 -52, 76 -94, 142 -120" stroke="#D7BEC6" stroke-width="2" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 28 -46 C -4 -56, 18 -82, 48 -66 C 34 -54, 30 -50, 28 -46" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 48 -62 C 52 -104, 80 -110, 71 -74 C 54 -70, 50 -66, 48 -62" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 72 -80 C 40 -94, 63 -118, 98 -104 C 78 -88, 74 -84, 72 -80" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 95 -96 C 99 -140, 133 -140, 120 -106 C 101 -104, 97 -100, 95 -96" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 120 -111 C 94 -127, 113 -143, 142 -131 C 126 -119, 122 -115, 120 -111" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 36 -42 C 48 -60, 64 -64, 79 -72" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="64" cy="-64" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="72" cy="-69" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="80" cy="-74" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 58 -65 C 70 -83, 86 -87, 101 -95" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="86" cy="-87" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="94" cy="-92" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="102" cy="-97" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 86 -84 C 98 -102, 114 -106, 129 -114" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="114" cy="-106" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="122" cy="-111" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="130" cy="-116" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 112 -104 C 124 -122, 140 -126, 155 -134" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="140" cy="-126" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="148" cy="-131" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="156" cy="-136" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+</g>
+<g transform="translate(1375 170) rotate(15) scale(-1.1 1.1)" opacity="0.75">
+<path d="M 0 0 C 28 -52, 76 -94, 142 -120" stroke="#D7BEC6" stroke-width="2" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 28 -46 C -4 -56, 18 -82, 48 -66 C 34 -54, 30 -50, 28 -46" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 48 -62 C 52 -104, 80 -110, 71 -74 C 54 -70, 50 -66, 48 -62" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 72 -80 C 40 -94, 63 -118, 98 -104 C 78 -88, 74 -84, 72 -80" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 95 -96 C 99 -140, 133 -140, 120 -106 C 101 -104, 97 -100, 95 -96" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 120 -111 C 94 -127, 113 -143, 142 -131 C 126 -119, 122 -115, 120 -111" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 36 -42 C 48 -60, 64 -64, 79 -72" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="64" cy="-64" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="72" cy="-69" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="80" cy="-74" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 58 -65 C 70 -83, 86 -87, 101 -95" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="86" cy="-87" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="94" cy="-92" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="102" cy="-97" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 86 -84 C 98 -102, 114 -106, 129 -114" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="114" cy="-106" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="122" cy="-111" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="130" cy="-116" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 112 -104 C 124 -122, 140 -126, 155 -134" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="140" cy="-126" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="148" cy="-131" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="156" cy="-136" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+</g>
+<g transform="translate(25 745) rotate(-35) scale(1.05 1.05)" opacity="0.75">
+<path d="M 0 0 C 28 -52, 76 -94, 142 -120" stroke="#D7BEC6" stroke-width="2" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 28 -46 C -4 -56, 18 -82, 48 -66 C 34 -54, 30 -50, 28 -46" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 48 -62 C 52 -104, 80 -110, 71 -74 C 54 -70, 50 -66, 48 -62" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 72 -80 C 40 -94, 63 -118, 98 -104 C 78 -88, 74 -84, 72 -80" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 95 -96 C 99 -140, 133 -140, 120 -106 C 101 -104, 97 -100, 95 -96" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 120 -111 C 94 -127, 113 -143, 142 -131 C 126 -119, 122 -115, 120 -111" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 36 -42 C 48 -60, 64 -64, 79 -72" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="64" cy="-64" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="72" cy="-69" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="80" cy="-74" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 58 -65 C 70 -83, 86 -87, 101 -95" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="86" cy="-87" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="94" cy="-92" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="102" cy="-97" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 86 -84 C 98 -102, 114 -106, 129 -114" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="114" cy="-106" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="122" cy="-111" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="130" cy="-116" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 112 -104 C 124 -122, 140 -126, 155 -134" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="140" cy="-126" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="148" cy="-131" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="156" cy="-136" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+</g>
+<g transform="translate(1375 745) rotate(35) scale(-1.05 1.05)" opacity="0.75">
+<path d="M 0 0 C 28 -52, 76 -94, 142 -120" stroke="#D7BEC6" stroke-width="2" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 28 -46 C -4 -56, 18 -82, 48 -66 C 34 -54, 30 -50, 28 -46" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 48 -62 C 52 -104, 80 -110, 71 -74 C 54 -70, 50 -66, 48 -62" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 72 -80 C 40 -94, 63 -118, 98 -104 C 78 -88, 74 -84, 72 -80" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 95 -96 C 99 -140, 133 -140, 120 -106 C 101 -104, 97 -100, 95 -96" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 120 -111 C 94 -127, 113 -143, 142 -131 C 126 -119, 122 -115, 120 -111" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 36 -42 C 48 -60, 64 -64, 79 -72" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="64" cy="-64" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="72" cy="-69" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="80" cy="-74" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 58 -65 C 70 -83, 86 -87, 101 -95" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="86" cy="-87" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="94" cy="-92" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="102" cy="-97" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 86 -84 C 98 -102, 114 -106, 129 -114" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="114" cy="-106" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="122" cy="-111" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="130" cy="-116" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 112 -104 C 124 -122, 140 -126, 155 -134" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="140" cy="-126" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="148" cy="-131" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="156" cy="-136" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+</g>
+<path d="M 720 61.8 C 696.6 46.2, 709.6 30.599999999999998, 720 43.6 C 730.4 30.599999999999998, 743.4 46.2, 720 61.8 Z" fill="#D9A99B" opacity="0.9"/>
+<g transform="translate(670 58) rotate(-45) scale(0.35 0.35)" opacity="1">
+<path d="M 0 0 C 28 -52, 76 -94, 142 -120" stroke="#D7BEC6" stroke-width="2" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 28 -46 C -4 -56, 18 -82, 48 -66 C 34 -54, 30 -50, 28 -46" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 48 -62 C 52 -104, 80 -110, 71 -74 C 54 -70, 50 -66, 48 -62" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 72 -80 C 40 -94, 63 -118, 98 -104 C 78 -88, 74 -84, 72 -80" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 95 -96 C 99 -140, 133 -140, 120 -106 C 101 -104, 97 -100, 95 -96" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 120 -111 C 94 -127, 113 -143, 142 -131 C 126 -119, 122 -115, 120 -111" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 36 -42 C 48 -60, 64 -64, 79 -72" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="64" cy="-64" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="72" cy="-69" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="80" cy="-74" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 58 -65 C 70 -83, 86 -87, 101 -95" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="86" cy="-87" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="94" cy="-92" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="102" cy="-97" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 86 -84 C 98 -102, 114 -106, 129 -114" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="114" cy="-106" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="122" cy="-111" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="130" cy="-116" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 112 -104 C 124 -122, 140 -126, 155 -134" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="140" cy="-126" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="148" cy="-131" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="156" cy="-136" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+</g>
+<g transform="translate(770 58) rotate(45) scale(-0.35 0.35)" opacity="1">
+<path d="M 0 0 C 28 -52, 76 -94, 142 -120" stroke="#D7BEC6" stroke-width="2" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 28 -46 C -4 -56, 18 -82, 48 -66 C 34 -54, 30 -50, 28 -46" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 48 -62 C 52 -104, 80 -110, 71 -74 C 54 -70, 50 -66, 48 -62" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 72 -80 C 40 -94, 63 -118, 98 -104 C 78 -88, 74 -84, 72 -80" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 95 -96 C 99 -140, 133 -140, 120 -106 C 101 -104, 97 -100, 95 -96" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 120 -111 C 94 -127, 113 -143, 142 -131 C 126 -119, 122 -115, 120 -111" stroke="#D7BEC6" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 36 -42 C 48 -60, 64 -64, 79 -72" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="64" cy="-64" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="72" cy="-69" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="80" cy="-74" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 58 -65 C 70 -83, 86 -87, 101 -95" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="86" cy="-87" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="94" cy="-92" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="102" cy="-97" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 86 -84 C 98 -102, 114 -106, 129 -114" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="114" cy="-106" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="122" cy="-111" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="130" cy="-116" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<path d="M 112 -104 C 124 -122, 140 -126, 155 -134" stroke="#D7BEC6" stroke-width="1.3" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="140" cy="-126" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="148" cy="-131" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+<circle cx="156" cy="-136" r="5" fill="none" stroke="#D7BEC6" stroke-width="1.1" opacity="1"/>
+</g>
+<text x="720" y="135" text-anchor="middle" class="serif" font-size="70" font-weight="500" fill="#7F5368" style="">Invitation</text>
+<line x1="576.25" y1="170" x2="688.75" y2="170" stroke="#CBA7B3" stroke-width="1.625" opacity="1" stroke-linecap="round"/>
+<line x1="751.25" y1="170" x2="863.75" y2="170" stroke="#CBA7B3" stroke-width="1.625" opacity="1" stroke-linecap="round"/>
+<path d="M 700.0 157.5 L 712.5 170 L 700.0 182.5 L 687.5 170 Z" stroke="#CBA7B3" stroke-width="1.5" fill="none" opacity="1"/>
+<path d="M 720.0 157.5 L 732.5 170 L 720.0 182.5 L 707.5 170 Z" stroke="#CBA7B3" stroke-width="1.5" fill="none" opacity="1"/>
+<path d="M 740.0 157.5 L 752.5 170 L 740.0 182.5 L 727.5 170 Z" stroke="#CBA7B3" stroke-width="1.5" fill="none" opacity="1"/>
+<text x="720" y="225" text-anchor="middle" class="serif" font-size="30" font-weight="500" fill="#D9A99B" style="text-decoration: underline dotted;">Rein</text>
+<path d="M 720 261.0 C 702.0 249.0, 712.0 237.0, 720 247.0 C 728.0 237.0, 738.0 249.0, 720 261.0 Z" fill="#D9A99B" opacity="0.9"/>
+<text x="720" y="305" text-anchor="middle" class="sans" font-size="22" font-weight="400" fill="#6F7077" style="">With immense joy and filled with love,</text>
+<text x="720" y="340" text-anchor="middle" class="sans" font-size="27" font-weight="700" fill="#7F5368" style="">Célia &amp; Christian</text>
+<text x="720" y="372" text-anchor="middle" class="sans" font-size="22" font-weight="400" fill="#6F7077" style="">have the honor of inviting you to celebrate the most beautiful day of their lives.</text>
+<text x="720" y="430" text-anchor="middle" class="sans" font-size="22" font-weight="400" fill="#6F7077" style="">Having united their hearts with the promise of a sincere and eternal love,</text>
+<text x="720" y="461" text-anchor="middle" class="sans" font-size="22" font-weight="400" fill="#6F7077" style="">they would be very happy to have you among their loved ones</text>
+<text x="720" y="492" text-anchor="middle" class="sans" font-size="22" font-weight="400" fill="#6F7077" style="">to share this unique moment of happiness and emotion.</text>
+<path d="M 720 535.4 C 703.8 524.6, 712.8 513.8, 720 522.8 C 727.2 513.8, 736.2 524.6, 720 535.4 Z" fill="#D9A99B" opacity="1"/>
+<line x1="650" y1="530" x2="700" y2="530" stroke="#D7BEC6" stroke-width="1.3" opacity="1" stroke-linecap="round"/>
+<line x1="740" y1="530" x2="790" y2="530" stroke="#D7BEC6" stroke-width="1.3" opacity="1" stroke-linecap="round"/>
+<circle cx="500" cy="592" r="42" fill="#F6EDEF" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<path d="M 478 596 H 522 M 482 596 V 568 H 518 V 596 M 476 568 H 524 M 484 568 L 500 552 L 516 568 M 488 596 V 576 M 500 596 V 576 M 512 596 V 576" stroke="#6F7077" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="665" y="575" text-anchor="start" class="serif" font-size="28" font-weight="600" fill="#7F5368" style="">FRIDAY, JULY 17, 2026</text>
+<rect x="610" y="600" width="112" height="34" rx="6" fill="#9A6F82" stroke="none" stroke-width="1" opacity="1"/>
+<text x="666" y="624" text-anchor="middle" class="sans" font-size="18" font-weight="700" fill="#FFFFFF" style="">10:00 a.m.</text>
+<line x1="750" y1="596" x2="750" y2="645" stroke="#D7BEC6" stroke-width="1.2" opacity="1" stroke-linecap="round"/>
+<text x="775" y="615" text-anchor="start" class="sans" font-size="20" font-weight="400" fill="#6F7077" style="">Civil marriage at the Bumbu town hall,</text>
+<text x="775" y="646" text-anchor="start" class="sans" font-size="20" font-weight="400" fill="#6F7077" style="">Av. Mafuta No. 45.</text>
+<line x1="420" y1="675" x2="1020" y2="675" stroke="#D7BEC6" stroke-width="1" opacity="0.6" stroke-linecap="round"/>
+<line x1="668.25" y1="675" x2="708.75" y2="675" stroke="#CBA7B3" stroke-width="0.5850000000000001" opacity="0.9" stroke-linecap="round"/>
+<line x1="731.25" y1="675" x2="771.75" y2="675" stroke="#CBA7B3" stroke-width="0.5850000000000001" opacity="0.9" stroke-linecap="round"/>
+<path d="M 712.8 670.5 L 717.3 675 L 712.8 679.5 L 708.3 675 Z" stroke="#CBA7B3" stroke-width="0.54" fill="none" opacity="0.9"/>
+<path d="M 720.0 670.5 L 724.5 675 L 720.0 679.5 L 715.5 675 Z" stroke="#CBA7B3" stroke-width="0.54" fill="none" opacity="0.9"/>
+<path d="M 727.2 670.5 L 731.7 675 L 727.2 679.5 L 722.7 675 Z" stroke="#CBA7B3" stroke-width="0.54" fill="none" opacity="0.9"/>
+<circle cx="500" cy="728" r="42" fill="#F6EDEF" stroke="#D7BEC6" stroke-width="1.2" opacity="1"/>
+<path d="M 484 736 C 494 712, 510 712, 520 736 M 498 724 L 498 746 M 512 724 L 512 746 M 492 746 H 502 M 506 746 H 516" stroke="#6F7077" stroke-width="1.5" fill="none" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="665" y="710" text-anchor="start" class="serif" font-size="28" font-weight="600" fill="#7F5368" style="">SATURDAY, JULY 18, 2026</text>
+<rect x="610" y="735" width="112" height="34" rx="6" fill="#9A6F82" stroke="none" stroke-width="1" opacity="1"/>
+<text x="666" y="759" text-anchor="middle" class="sans" font-size="18" font-weight="700" fill="#FFFFFF" style="">7:30 p.m.</text>
+<line x1="750" y1="731" x2="750" y2="780" stroke="#D7BEC6" stroke-width="1.2" opacity="1" stroke-linecap="round"/>
+<text x="775" y="750" text-anchor="start" class="sans" font-size="20" font-weight="400" fill="#6F7077" style="">Dance party at the Christelle Love Hall,</text>
+<text x="775" y="781" text-anchor="start" class="sans" font-size="20" font-weight="400" fill="#6F7077" style="">Tshiela Avenue, Kinshasa.</text>
+</svg>

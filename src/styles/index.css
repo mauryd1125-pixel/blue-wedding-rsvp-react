@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --primary: #B7DCEB;
+  --primary-dark: #7FBFE0;
+  --primary-soft: #EAF7FB;
+  --ivory: #FAF9F5;
+  --gold: #D8C9A4;
+  --text-dark: #2F3437;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: 'Poppins', sans-serif;
+  background: #FAF9F5;
+  color: #2F3437;
+}
+
+button,
+input,
+textarea {
+  font-family: inherit;
+}
+
+::selection {
+  background: #B7DCEB;
+  color: #1F3742;
+}
+
+.glass-panel {
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.76), rgba(234, 247, 251, 0.66));
+  border: 1px solid rgba(221, 234, 240, 0.95);
+  backdrop-filter: blur(18px);
+}
+
+.gold-line {
+  background: linear-gradient(90deg, transparent, #D8C9A4, transparent);
+}
+
+.envelope-flap {
+  clip-path: polygon(0 0, 50% 100%, 100% 0);
+}
+
+.card-cut {
+  clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
