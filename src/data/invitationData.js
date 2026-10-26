@@ -14,7 +14,7 @@ export const invitationData = {
     qrCodeId: 'CC-REIN-2026',
   },
   event: {
-    dateLabel: 'Saturday, July 18, 2026',
+    dateLabel: 'Sabado, Agosto 07, 2027',
     timeLabel: '7:30 PM',
     deadline: 'To be confirmed before July 18, 2026',
     targetDate: '2026-07-18T19:30:00',
