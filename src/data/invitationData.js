@@ -1,8 +1,8 @@
 export const invitationData = {
   couple: {
-    bride: 'Célia',
-    groom: 'Christian',
-    names: 'Célia & Christian',
+    bride: 'Mauricio',
+    groom: 'Danae',
+    names: 'Mauricio & Danae',
     monogram: 'C & C',
   },
   guest: {
