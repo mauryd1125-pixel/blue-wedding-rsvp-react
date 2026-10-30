@@ -23,7 +23,7 @@ export const invitationData = {
   },
   hero: {
     title: 'Invitation',
-    subtitle: 'Two hearts, one promise, a lifetime of love.',
+    subtitle: 'Dos Corazones, una promesa, una vida para el amor.',
   },
   invitationMessage: [
     'With immense joy and filled with love, Célia & Christian have the honor of inviting you to celebrate the most beautiful day of their lives.',
