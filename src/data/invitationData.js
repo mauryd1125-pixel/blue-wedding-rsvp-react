@@ -22,7 +22,7 @@ export const invitationData = {
     whatsappLink: 'https://wa.me/250700000000?text=Hello%20I%20need%20help%20with%20my%20invitation',
   },
   hero: {
-    title: 'Invitation',
+    title: 'Invitación',
     subtitle: 'Dos Corazones, una promesa, una vida para el amor.',
   },
   invitationMessage: [
